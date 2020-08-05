@@ -1,7 +1,4 @@
-### Hi there, here's what I'm working on: 👋
-
-
-Here are some ideas to get you started:
+### Hi there, thanks for visiting my GitHub: 👋
 
 - 🔭 I’m currently working on CS algorithms and full stack projects with React.js
 - 🌱 I’m currently learning how to solve the same algo problem differently! 
