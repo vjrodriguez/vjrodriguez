@@ -1,6 +1,6 @@
 ### Hi there, thanks for visiting my GitHub: 👋
 
-- 🔭 I’m currently working on CS algorithms and full stack projects with React.js
+- 🔭 I’m currently working on CS algorithms and building a GraphQL server with Node and TypeScript. 
 - 🌱 I’m currently learning how to solve the same algo problem differently! 
 - 👯 I’m looking to collaborate on: I'm open to ideas(leaning stringly towards AWS), please reach out with a proposal!
 - 🤔 I’m looking for help with how coding can solve some problems created by Covid-19
