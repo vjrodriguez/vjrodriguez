@@ -11,7 +11,7 @@
 - 💬 Ask me about: 
   + my dog
   + my experience attending a coding bootcamp
-  + how to stay sane working from home!
+  + how to stay sane WFH!
 - 📫 How to reach me: vrod8763@gmail.com 
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I speak 4 languages and am learning the 5th.
