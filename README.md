@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: 
   + mastering CS algorithms & Data Structures
   + building a GraphQL server with Node and TypeScript. 
-- 👯 I’m looking to collaborate on: I'm open to ideas(leaning stringly towards AWS), please reach out with a proposal!
+- 👯 I’m looking to collaborate on: I'm open to ideas(leaning strongly towards AWS), please reach out with a proposal!
 - 🤔 I’m looking for a way to solve Covid-related problems with coding
 - 💬 Ask me about: 
   + my dog
