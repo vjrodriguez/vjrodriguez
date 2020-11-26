@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on:
   + solving the same algo problem differently
   + #100daysofcode (68 down, 32 more to go!)
-- 🌱 I’m currently learning: 
+- 🌱 I’m currently working on: 
   + mastering CS algorithms & Data Structures
   + building a GraphQL server with Node and TypeScript. 
-- 📫 How to reach me: vrod8763@gmail.com 
-- ⚡ Fun fact: I speak 4 languages and am learning the 5th.
+- ⚡ Fun fact: I speak 4 (human)languages and am learning the 5th.
+- 📫 vrod8763@gmail.com 
