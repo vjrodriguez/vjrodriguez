@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on:
   + solving the same problem in different ways
-  + #100daysofcode 
 - 🌱 I’m currently working on: 
   + CS algorithms & Data Structures
   + building a GraphQL server with Node and TypeScript
