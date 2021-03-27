@@ -1,7 +1,7 @@
 ### Hi there, thanks for visiting my GitHub: 👋
 
 - 🔭 I’m currently working on:
-  + solving the same problem in different ways
+  + building projects with Reack hooks
 - 🌱 I’m currently working on: 
   + CS algorithms & Data Structures
   + building a GraphQL server with Node and TypeScript
