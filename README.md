@@ -1,7 +1,7 @@
 ### Hi there, thanks for visiting my GitHub: 👋
 
 - 🔭 I’m currently working on:
-  + building projects with Reack hooks
+  + Build high-quality, clean, scalable and reusable code by enforcing best practices around software engineering architecture and processes
 - 🌱 I’m always working on: 
-  + solving the same problem in different ways
+  + design and implementation of new products and features while also enhancing the existing product suite
 - 📫  vrod8763@gmail.com 
